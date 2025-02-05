@@ -1,0 +1,6 @@
+@EFCoreCodeFirstSample_HostAddress = http://localhost:5227
+
+GET {{EFCoreCodeFirstSample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
